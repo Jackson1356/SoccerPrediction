@@ -1,7 +1,8 @@
 ## Visualization and Prediction of Soccer Games in Europe and Japan
 
 # Introduction
-This is a project trying to predict soccer game results and expected goals based on odds data. 
+Welcome to the Predicting Soccer Game Results repository! This project aims to leverage the power of statistical analysis and machine learning to predict the outcomes of soccer games using odds data provided by bookmakers. The intuition behind this project is that the odds provided by bookmakers encapsulate extensive expert analysis and market sentiment, making them a rich source of information for predicting soccer game outcomes. By analyzing these odds, which are dynamically adjusted based on various factors like team performance and player conditions, we can extract valuable insights. Utilizing statistical models and machine learning algorithms, we aim to transform this odds data into accurate predictions of game results, leveraging the quantifiable and information-rich nature of the odds.
+
 
 # Japanese Soccer League (J1 League)
 Visualization and prediction of Japan soccer league (J1 League) is in J1League_prediction.ipynb. I first used game results and odds from Pinnacle from 2012-2024 to predict game results. Then information about match importance and Soccer Power Index (SPI) are included.
@@ -22,4 +23,5 @@ In euro_leagues_prediction.ipynb, games of Germany, England, Spain and Italy lea
 
 # Data Source
 odds data: https://football-data.co.uk/
+
 spi data: https://github.com/fivethirtyeight/data/tree/master/soccer-spi
